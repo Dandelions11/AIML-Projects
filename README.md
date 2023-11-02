@@ -10,7 +10,7 @@ $ cd AIML-Projects
 ## Projects:
 **1. Supervised Machine Learning**
    - Covers Multiple Variable Linear regression, Logistic regression, Naive Bayes classifiers, Multiple regression, K-NN classification, Support vector machines
-      - **Project link:** [Supervised Machine Learning]([https://nbviewer.jupyter.org/github/sharmapratik88/AIML-Projects/blob/master/02_Supervised%20Machine%20Learning/02_Supervised%20Machine%20Learning.ipynb](https://nbviewer.org/github/nanditashukla/AIML-Projects/blob/main/01_Supervised%20Machine%20Learning/PROJECT_1.ipynb))
+      - **Project link:** [Supervised Machine Learning](https://nbviewer.org/github/nanditashukla/AIML-Projects/blob/main/01_Supervised%20Machine%20Learning/PROJECT_1.ipynb)
         - Identified potential loan customers for Thera Bank using classification techniques. Compared models built with Logistic Regression and KNN algorithm in order to select the best performing one.
           
 **2. Unsupervised Machine Learning**
