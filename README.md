@@ -18,8 +18,7 @@ $ cd AIML-Projects
    - **Skills & Tools Covered:** K-means clustering, Agglomerative Hierarchical clustering, Dimension Reduction-PCA
    - **Project link:** [Unsupervised Learning](https://nbviewer.org/github/nanditashukla/AIML-Projects/blob/main/02_Unsupervised%20Machine%20Learning/PROJECT_2.ipynb)
    - **Project Topic:** Mobile User Demographics - clustering
-      - This project is based on building an Unsupervised Learning model making use of the clustering algorithms to cluster user segments with similar interests/habits. This helps the App/mobile providers better understand and interact wit their subscribers. 
-         - Classified vehicles into different types based on silhouettes which may be viewed from many angles. Used PCA in order to reduce dimensionality and SVM for classification
+      - Built an Unsupervised Learning model by making use of clustering algorithms to cluster user segments with similar interests/habits based on silhouettes and used PCA in order to reduce dimensionality, to help the App/mobile providers better understand and interact with their subscribers. 
 
 **3. Ensemble Methods**
    - Covers Decision Trees, Bagging, Random Forests, Boosting
