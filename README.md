@@ -20,7 +20,7 @@ $ cd AIML-Projects
 
 **3. Ensemble Methods**
    - Covers Decision Trees, Bagging, Random Forests, Boosting
-      - **Project link:** [Ensemble Technique](https://nbviewer.jupyter.org/github/sharmapratik88/AIML-Projects/blob/master/03_Ensemble%20Techniques/03_Ensemble%20Techniques.ipynb)
+      - **Project link:** [Ensemble Technique](https://nbviewer.org/github/nanditashukla/AIML-Projects/blob/main/03_Ensemble%20Methods/Project_1.ipynb).
          - Leveraged customer information of bank marketing campaigns to predict whether a customer will subscribe to term deposit or not. Different classification algorithms like Decision tree, Logistic Regression were used. Ensemble techniques like Random forest were used to further improve the classification results.
 
 **4. Feature Engineering Techniques**
