@@ -1,5 +1,5 @@
 # Artificial Intelligence and Machine Learning Projects
-Projects completed as a part of Great Learning's Post Graduation Diploma in Computer Science and Artificial Intelligence.
+Projects completed as a part of IIIT-Delhi's Post Graduation Diploma in Artificial Intelligence.
 
 ## Installation
 ```
