@@ -3,7 +3,7 @@ Projects completed as a part of Great Learning's Post Graduation Diploma in Comp
 
 ## Installation
 ```
-$ git clone https://github.com/sharmapratik88/AIML-Projects.git
+$ git clone https://github.com/nanditashukla/AIML-Projects.git
 $ cd AIML-Projects
 ```
 
