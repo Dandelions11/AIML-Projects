@@ -11,7 +11,7 @@ $ cd AIML-Projects
 **1. Supervised Machine Learning**
    - Covers Logistic regression, Naive Bayes classifiers, KNN classification
       - **Project link:** [Supervised Machine Learning](https://nbviewer.org/github/nanditashukla/AIML-Projects/blob/main/01_Supervised%20Machine%20Learning/PROJECT_1.ipynb)
-      - TOPIC: Telecom Customer Churn Prediction
+      - **Project Topic:** Telecom Customer Churn Prediction
       - Built Supervised Learning Classification models to help identify potential customers who have a higher probability to churn. Compared models built with Logistic Regression, KNN algorithm and Naive Bayes in order to select the best performing one.
           
 **2. Unsupervised Machine Learning**
