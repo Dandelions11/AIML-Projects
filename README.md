@@ -25,7 +25,7 @@ $ cd AIML-Projects
 
 **4. Feature Engineering Techniques**
    - Covers Exploratory Data Analysis, Feature Exploration and Selection Techniques, Hyperparameter Tuning
-      - **Project link:** [Feature Engineering Techniques](https://nbviewer.jupyter.org/github/sharmapratik88/AIML-Projects/blob/master/05_Feature%20Engineering%20Techniques/05_Feature_Engineering_Techniques.ipynb)
+      - **Project link:** [Feature Engineering Techniques](https://nbviewer.org/github/nanditashukla/AIML-Projects/blob/main/04_Feature%20Engineering%20Techniques/project_2.ipynb).
         - Used feature exploration and selection technique to predict the strength of high-performance concrete. Used regression models like decision tree regressors to find out the most important features and predict the strength. Cross-validation techniques and grid search were used to tune the parameters for the best model performance.
 
 **5. Neural Networks**
