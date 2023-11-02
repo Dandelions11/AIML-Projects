@@ -30,7 +30,7 @@ $ cd AIML-Projects
 
 **5. Neural Networks**
    - Covers Gradient Descent, Batch Normalization, Hyper parameter tuning, Tensor Flow & Keras for Neural Networks & Deep Learning, Introduction to Perceptron & Neural Networks, Activation and Loss functions, Deep Neural Networks
-      - **Project link:** [Neural Networks](https://nbviewer.jupyter.org/github/sharmapratik88/AIML-Projects/blob/master/07_Neural%20Networks/07_Neural_Network.ipynb)
+      - **Project link:** [Neural Networks](https://nbviewer.org/github/nanditashukla/AIML-Projects/blob/main/05_Neural%20Networks/Nandita_DL_Project_1.ipynb).
         - SVHN is a real-world image dataset for developing object recognition algorithms with a requirement on data formatting but comes from a significantly harder, unsolved, real-world problem (recognizing digits and numbers in natural scene images). SVHN is obtained from house numbers in Google Street View images. The objective of the project is to learn how to implement a simple image classification pipeline based on the k-Nearest Neighbour and a deep neural network
 
           
