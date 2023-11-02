@@ -15,7 +15,7 @@ $ cd AIML-Projects
           
 **2. Unsupervised Machine Learning**
    - Covers K-means clustering, High-dimensional clustering, Hierarchical clustering, Dimension Reduction-PCA4
-      - **Project link:** [Unsupervised Learning](https://nbviewer.jupyter.org/github/sharmapratik88/AIML-Projects/blob/master/04_Unsupervised%20Learning/04_Unsupervised%20Learning.ipynb)
+      - **Project link:** [Unsupervised Learning](https://nbviewer.org/github/nanditashukla/AIML-Projects/blob/main/02_Unsupervised%20Machine%20Learning/PROJECT_2.ipynb).
          - Classified vehicles into different types based on silhouettes which may be viewed from many angles. Used PCA in order to reduce dimensionality and SVM for classification
 
 **3. Ensemble Methods**
