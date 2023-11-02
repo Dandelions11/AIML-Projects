@@ -12,11 +12,13 @@ $ cd AIML-Projects
    - **Skills & Tools Covered:** Exploratory Data Analysis, Data Preprocessing, Logistic regression, Naive Bayes classifiers, KNN classification
    - **Project link:** [Supervised Machine Learning](https://nbviewer.org/github/nanditashukla/AIML-Projects/blob/main/01_Supervised%20Machine%20Learning/PROJECT_1.ipynb)
    - **Project Topic:** Telecom Customer Churn Prediction
-   - Built Supervised Learning Classification models to help identify potential customers who have a higher probability to churn. Compared models built with Logistic Regression, KNN algorithm and Naive Bayes in order to select the best performing one.
+      - Built Supervised Learning Classification models to help identify potential customers who have a higher probability to churn. Compared models built with Logistic Regression, KNN algorithm and Naive Bayes in order to select the best performing one.
           
 **2. Unsupervised Machine Learning**
-   - Covers K-means clustering, High-dimensional clustering, Hierarchical clustering, Dimension Reduction-PCA4
-      - **Project link:** [Unsupervised Learning](https://nbviewer.org/github/nanditashukla/AIML-Projects/blob/main/02_Unsupervised%20Machine%20Learning/PROJECT_2.ipynb)
+   - **Skills & Tools Covered:** K-means clustering, Agglomerative Hierarchical clustering, Dimension Reduction-PCA
+   - **Project link:** [Unsupervised Learning](https://nbviewer.org/github/nanditashukla/AIML-Projects/blob/main/02_Unsupervised%20Machine%20Learning/PROJECT_2.ipynb)
+   - **Project Topic:** Mobile User Demographics - clustering
+      - This project is based on building an Unsupervised Learning model making use of the clustering algorithms to cluster user segments with similar interests/habits. This helps the App/mobile providers better understand and interact wit their subscribers. 
          - Classified vehicles into different types based on silhouettes which may be viewed from many angles. Used PCA in order to reduce dimensionality and SVM for classification
 
 **3. Ensemble Methods**
