@@ -21,21 +21,21 @@ $ cd AIML-Projects
       - Built an Unsupervised Learning model by making use of clustering algorithms to cluster user segments with similar interests/habits based on silhouettes and used PCA in order to reduce dimensionality, to help the App/mobile providers better understand and interact with their subscribers. 
 
 **3. Ensemble Methods**
-      - **Skills & Tools Covered:** Decision Trees, Bagging, Random Forests, Boosting
-      - **Project link:** [Ensemble Methods](https://nbviewer.org/github/nanditashukla/AIML-Projects/blob/main/03_Ensemble%20Methods/Project_1_Final.ipynb)
-      - **Project Topic:** Google Store App Rating Prediction
-         - Leveraged app data and user ratings from the app stores and extracted insightful information to predict rating for a given app. Decision tree classification algorithm was used and ensemble techniques like Random forest, Bagging, Gradient boosting, ADA boosting and Stacking were used to further improve the classification results.
+   - **Skills & Tools Covered:** Decision Trees, Bagging, Random Forests, Boosting
+   - **Project link:** [Ensemble Methods](https://nbviewer.org/github/nanditashukla/AIML-Projects/blob/main/03_Ensemble%20Methods/Project_1_Final.ipynb)
+   - **Project Topic:** Google Store App Rating Prediction   
+     - Leveraged app data and user ratings from the app stores and extracted insightful information to predict rating for a given app. Decision tree classification algorithm was used and ensemble techniques like Random forest, Bagging, Gradient boosting, ADA boosting and Stacking were used to further improve the classification results.
 
 **4. Feature Engineering Techniques**
-      - **Skills & Tools Covered:** Exploratory Data Analysis, Feature Exploration and Selection Techniques, Hyperparameter Tuning
-      - **Project link:** [Feature Engineering Techniques](https://nbviewer.org/github/nanditashukla/AIML-Projects/blob/main/04_Feature%20Engineering%20Techniques/project_2.ipynb)
-      - **Project Topic:** Bank Loan Defaulter Prediction
-        - Used feature exploration and selection technique to predict the strength of high-performance concrete. Used regression models like decision tree regressors to find out the most important features and predict the strength. Cross-validation techniques and grid search were used to tune the parameters for the best model performance.
+   - **Skills & Tools Covered:** Exploratory Data Analysis, Feature Exploration and Selection Techniques, Hyperparameter Tuning
+   - **Project link:** [Feature Engineering Techniques](https://nbviewer.org/github/nanditashukla/AIML-Projects/blob/main/04_Feature%20Engineering%20Techniques/project_2.ipynb)
+   - **Project Topic:** Bank Loan Defaulter Prediction
+      - Used feature exploration and selection technique to predict the strength of high-performance concrete. Used regression models like decision tree regressors to find out the most important features and predict the strength. Cross-validation techniques and grid search were used to tune the parameters for the best model performance.
 
 **5. Neural Networks**
-      - **Skills & Tools Covered:** Gradient Descent, Batch Normalization, Hyper parameter tuning, Tensor Flow & Keras for Neural Networks & Deep Learning, Introduction to Perceptron & Neural Networks, Activation and Loss functions, Deep Neural Networks
-      - **Project link:** [Neural Networks](https://nbviewer.org/github/nanditashukla/AIML-Projects/blob/main/05_Neural%20Networks/Nandita_DL_Project_1.ipynb)
-      - **Project Topic:** Signal Quality prediction of communication equipment using Neural Networks
-        - SVHN is a real-world image dataset for developing object recognition algorithms with a requirement on data formatting but comes from a significantly harder, unsolved, real-world problem (recognizing digits and numbers in natural scene images). SVHN is obtained from house numbers in Google Street View images. The objective of the project is to learn how to implement a simple image classification pipeline based on the k-Nearest Neighbour and a deep neural network
+   - **Skills & Tools Covered:** Gradient Descent, Batch Normalization, Hyper parameter tuning, Tensor Flow & Keras for Neural Networks & Deep Learning, Introduction to Perceptron & Neural Networks, Activation and Loss functions, Deep Neural Networks
+   - **Project link:** [Neural Networks](https://nbviewer.org/github/nanditashukla/AIML-Projects/blob/main/05_Neural%20Networks/Nandita_DL_Project_1.ipynb)
+   - **Project Topic:** Signal Quality prediction of communication equipment using Neural Networks
+      - SVHN is a real-world image dataset for developing object recognition algorithms with a requirement on data formatting but comes from a significantly harder, unsolved, real-world problem (recognizing digits and numbers in natural scene images). SVHN is obtained from house numbers in Google Street View images. The objective of the project is to learn how to implement a simple image classification pipeline based on the k-Nearest Neighbour and a deep neural network
 
           
