@@ -30,7 +30,7 @@ $ cd AIML-Projects
    - **Skills & Tools Covered:** Exploratory Data Analysis, Feature Exploration and Selection Techniques, Hyperparameter Tuning, Handling imbalanced data
    - **Project link:** [Feature Engineering Techniques](https://nbviewer.org/github/nanditashukla/AIML-Projects/blob/main/04_Feature%20Engineering%20Techniques/project_2.ipynb)
    - **Project Topic:** Bank Loan Defaulter Prediction
-      - Used feature exploration and selection technique to predict the strength of high-performance concrete. Used regression models like decision tree regressors to find out the most important features and predict the strength. Cross-validation techniques and grid search were used to tune the parameters for the best model performance.
+     - Used feature exploration and selection technique to predict if a customer will be a loan defaulter or not based on the given input features such as funded amount, term, interest rate etc. Used ensemble method Random forest to find out the most important features. Cross-validation techniques and grid search were used to tune the parameters for the best model performance.
 
 **5. Neural Networks**
    - **Skills & Tools Covered:** Gradient Descent, Batch Normalization, Hyper parameter tuning, Tensor Flow & Keras for Neural Networks & Deep Learning, Introduction to Perceptron & Neural Networks, Activation and Loss functions, Deep Neural Networks
