@@ -27,7 +27,7 @@ $ cd AIML-Projects
      - Leveraged app data and user ratings from the app stores and extracted insightful information to predict rating for a given app. Decision tree classification algorithm was used and ensemble techniques like Random forest, Bagging, Gradient boosting, ADA boosting and Stacking were used to further improve the classification results.
 
 **4. Feature Engineering Techniques**
-   - **Skills & Tools Covered:** Exploratory Data Analysis, Feature Exploration and Selection Techniques, Hyperparameter Tuning
+   - **Skills & Tools Covered:** Exploratory Data Analysis, Feature Exploration and Selection Techniques, Hyperparameter Tuning, Handling imbalanced data
    - **Project link:** [Feature Engineering Techniques](https://nbviewer.org/github/nanditashukla/AIML-Projects/blob/main/04_Feature%20Engineering%20Techniques/project_2.ipynb)
    - **Project Topic:** Bank Loan Defaulter Prediction
       - Used feature exploration and selection technique to predict the strength of high-performance concrete. Used regression models like decision tree regressors to find out the most important features and predict the strength. Cross-validation techniques and grid search were used to tune the parameters for the best model performance.
