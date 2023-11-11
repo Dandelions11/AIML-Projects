@@ -6,19 +6,23 @@ Capstone Project completed as a part of IIIT Delhi's Post Graduate Diploma in Ar
 Pneumonia is a prevalent respiratory disease that requires early detection and treatment.The goal of this project is to develop a deep learning algorithm for detecting lung opacity in chest X-Ray images. Computer vision techniques can be applied to chest radiographs to automatically identify lung opacities, a critical indicator of pneumonia.
 
 **Approach**
+
 Phase 1: Data Preprocessing and Exploration
 -	Loading and preprocessing DICOM images using Python libraries (pydicom, cv2).
 -	Exploring the dataset to understand its structure, distribution, and labeling.
--	Identify how are classes and target distributed
+-	Identify how are classes and target distributed.
 -	Splitting the dataset into training, validation, and test sets.
+	
 Phase 2: Model Development
 -	Using transfer learning architectures suitable for image classification.
 -	Training the model on the training dataset with lung opacity detection as the primary objective.
-=	Implementing data augmentation techniques to enhance model generalization.
+-	Implementing data augmentation techniques to enhance model generalization.
+
 Phase 3: Model Evaluation and Refinement
 -	Validating the model on the validation dataset to assess its performance.
 -	Analyzing evaluation metrics and adjust hyperparameters as needed.
 -	Fine-tune the model to achieve the best possible accuracy and generalization.
+  
 Phase 4: Result and Conclusion
 -	summarizing the project's objectives, methodology, results, and conclusions.
 -	comparing the performance metrics of the different transfer learning models with and without using image augmentation.
