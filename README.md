@@ -33,9 +33,9 @@ $ cd AIML-Projects
      - Used feature exploration and selection technique to predict if a customer will be a loan defaulter or not based on the given input features such as funded amount, term, interest rate etc. Used ensemble method Random forest to find out the most important features. Cross-validation techniques and grid search were used to tune the parameters for the best model performance.
 
 **5. Neural Networks**
-   - **Skills & Tools Covered:** Gradient Descent, Batch Normalization, Hyper parameter tuning, Tensor Flow & Keras for Neural Networks & Deep Learning, Introduction to Perceptron & Neural Networks, Activation and Loss functions, Deep Neural Networks
+   - **Skills & Tools Covered:** Batch Normalization, Hyper parameter tuning, Tensor Flow & Keras for Neural Networks & Deep Learning
    - **Project link:** [Neural Networks](https://nbviewer.org/github/nanditashukla/AIML-Projects/blob/main/05_Neural%20Networks/Nandita_DL_Project_1.ipynb)
    - **Project Topic:** Signal Quality prediction of communication equipment using Neural Networks
-      - SVHN is a real-world image dataset for developing object recognition algorithms with a requirement on data formatting but comes from a significantly harder, unsolved, real-world problem (recognizing digits and numbers in natural scene images). SVHN is obtained from house numbers in Google Street View images. The objective of the project is to learn how to implement a simple image classification pipeline based on the k-Nearest Neighbour and a deep neural network
+      - Build a deep learning model which can help the communications company to predict the equipment’s signal quality using various parameters. Used batch normalization, kernel initializer and dropout layers to fine tune the model and obtained an improvement in performance metrics.
 
           
