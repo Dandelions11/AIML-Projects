@@ -27,6 +27,25 @@ Phase 4: Result and Conclusion
 -	summarizing the project's objectives, methodology, results, and conclusions.
 -	comparing the performance metrics of the different transfer learning models with and without using image augmentation.
 
+**Pre-trained CNN models used as transfer learning:**
+1. DenseNet121
+2. ResNet152V2
+3. MobileNetV2
+4. Xception
+5. CheXNet
+
+We have used these five models for classification of x-ray images in two ways: 
+1.	Full frozen layers
+2.	Full frozen layers + Image augmentation
+
+
+**MODEL 1: Training the models on fully frozen layers**
+
+We trained the model by setting all the layers in the pre-trained model as non-trainable, added a custom number of fully connected layers using L2              
+regularizer and dropout layers, followed by the output layer using ‘sigmoid’ activation function.  
+The models are compiled using Adam optimizer, and binary_crossentropy loss function and is fit by setting the batch_size, epochs and callbacks hyperparameters.
+
+
 
 Jupyter Notebook Link containing the exploration steps.
 Module Link contains custom module which was built to help in performing EDA.
