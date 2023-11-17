@@ -50,6 +50,8 @@ We trained the model by setting all the layers in the pre-trained model as non-t
 
 Data Augmentation Values used:
 
+---------------------------
+
 Rotation range	        5.0
 
 Width shift range	0.2
@@ -62,6 +64,7 @@ Zoom range	        0.2
 
 Horizontal flip	        True
 
+----------------------------
 
 Image augmentation was only done on the training images and was evaluated on validation data.
 Since image augmentation acts as a regularizer to overfitting too, the dropout layers were not included in the custom number of fully connected layers.
