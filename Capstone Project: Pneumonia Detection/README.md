@@ -46,7 +46,7 @@ We trained the model by setting all the layers in the pre-trained model as non-t
                                                                                                               
 **MODEL 2: Training the models on fully frozen layers and using image augmentation**                                     
 
-Data Augmentation Values 
+Data Augmentation Values used:
 
 Rotation range	        5.0
 
