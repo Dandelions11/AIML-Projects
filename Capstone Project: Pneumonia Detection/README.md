@@ -44,9 +44,10 @@ We have used these five models for classification of x-ray images in two ways:
 We trained the model by setting all the layers in the pre-trained model as non-trainable, added a custom number of fully connected layers using L2       regularizer and dropout layers, followed by the output layer using ‘sigmoid’ activation function.The models are compiled using Adam optimizer, and binary_crossentropy loss function and is fit by setting the batch_size, epochs and callbacks hyperparameters.
 
                                                                                                               
-**Model 2: Training the models on fully frozen layers and using image augmentation**                                     
+**MODEL 2: Training the models on fully frozen layers and using image augmentation**                                     
 
 Data Augmentation Values 
+
 Rotation range	        5.0
 
 Width shift range	0.2
