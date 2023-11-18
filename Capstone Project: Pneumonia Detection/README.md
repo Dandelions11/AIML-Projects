@@ -69,6 +69,7 @@ Horizontal flip :-	        True
 Image augmentation was only done on the training images and was evaluated on validation data.
 Since image augmentation acts as a regularizer to overfitting too, the dropout layers were not included in the custom number of fully connected layers.
 
+
 **Learnings:**
 
 This project allowed us to understand how to:
