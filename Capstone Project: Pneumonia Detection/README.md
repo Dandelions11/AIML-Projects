@@ -5,7 +5,7 @@ Capstone Project completed as a part of IIIT Delhi's Post Graduate Diploma in Ar
 
 **Problem Statement**
 
-Pneumonia is a prevalent respiratory disease that requires early detection and treatment.The goal of this project is to develop a deep learning algorithm for detecting lung opacity in chest X-Ray images. Computer vision techniques can be applied to chest radiographs to automatically identify lung opacities, a critical indicator of pneumonia.
+Pneumonia is a prevalent respiratory disease that requires early detection and treatment.The goal of this project is to develop a deep learning algorithm for *detecting lung opacity* in chest X-Ray images. Computer vision techniques can be applied to chest radiographs to automatically identify lung opacities, a critical indicator of pneumonia.
 
 **Approach**
 
