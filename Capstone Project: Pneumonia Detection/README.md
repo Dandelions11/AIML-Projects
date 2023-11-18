@@ -52,17 +52,17 @@ Data Augmentation Values used:
 
 ---------------------------
 
-Rotation range	        5.0
+Rotation range :-	        5.0
 
-Width shift range	0.2
+Width shift range :-	0.2
 
-Height shift range	0.2
+Height shift range :-	0.2
 
-Shear range	        0.2
+Shear range :-	        0.2
 
-Zoom range	        0.2
+Zoom range :-	        0.2
 
-Horizontal flip	        True
+Horizontal flip :-	        True
 
 ----------------------------
 
