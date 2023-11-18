@@ -69,5 +69,15 @@ Horizontal flip :-	        True
 Image augmentation was only done on the training images and was evaluated on validation data.
 Since image augmentation acts as a regularizer to overfitting too, the dropout layers were not included in the custom number of fully connected layers.
 
+**Learnings:**
+
+This project allowed us to understand how to:
+
+-	work with medical data
+-	import and use various libraries according to the task at hand
+-	use pre-trained models and what models to use
+-	adjust various hyperparameters such as learning rate, L2 regularization, batch_size etc. to enhance performance
+-	mitigate overfitting
+-	use small dataset effectively
 
 
