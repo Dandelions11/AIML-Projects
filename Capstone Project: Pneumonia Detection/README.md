@@ -1,4 +1,4 @@
-**RSNA Pneumonia Detection Detection - Capstone Project**
+**RSNA Pneumonia Detection - Capstone Project**
 
 Capstone Project completed as a part of IIIT Delhi's Post Graduate Diploma in Artificial Intelligence
 
